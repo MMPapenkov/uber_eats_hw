@@ -124,6 +124,9 @@ body *{
     border-color: #757575;
 
 }
+.cards {
+    margin-bottom: 50px;
+}
 .cards p{
     font-size: 22px;
 }
